@@ -7,7 +7,7 @@ API REST para gestión de libros, desarrollada con Node.js, Express y PostgreSQL
 - Node.js + Express
 - PostgreSQL + Sequelize
 - bcrypt + JWT
-- Helmet + xss-clean
+- Helmet
 - Jest + Supertest
 - Docker + docker-compose
 - dotenv
